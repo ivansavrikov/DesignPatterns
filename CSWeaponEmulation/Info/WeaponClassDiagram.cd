@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patterns.Core.Adapter.Aug">
+    <Position X="14" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Adapter\Aug.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Patterns.Core.Adapter.LegacyAug">
+    <Position X="14" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\LegacyAug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.FirearmWeapon">
+    <Position X="6.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAACAABAAAAAAAABAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\AbstractWeapon\FirearmWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.Knife" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\AbstractWeapon\Knife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.Pistol" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\AbstractWeapon\Pistol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.Rifle" Collapsed="true">
+    <Position X="10.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\AbstractWeapon\Rifle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.Weapon">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\AbstractWeapon\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.AK47">
+    <Position X="7.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\AK47.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.AWP">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\AWP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Patterns.Core.Weapon.CounterTerroristKnife">
+    <Position X="16.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\CounterTerroristKnife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.DesertEagle">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\DesertEagle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.Glock18">
+    <Position X="5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\Glock18.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.Karambit">
+    <Position X="18.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\Karambit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.M4A4">
+    <Position X="11.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\M4A4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.TerroristKnife">
+    <Position X="20.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\TerroristKnife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Weapon.USPS">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Weapon\ConcreteWeapon\USPS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Patterns.Core.Interfaces.IScopable">
+    <Position X="19.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Interfaces\IScopable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

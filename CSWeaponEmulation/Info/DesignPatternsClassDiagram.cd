@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patterns.Core.AbstractFactory.CounterTerroristWeaponFactory">
+    <Position X="2" Y="8.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\AbstractFactory\CounterTerroristWeaponFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.AbstractFactory.TerroristWeaponFactory">
+    <Position X="5.75" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\AbstractFactory\TerroristWeaponFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.AbstractFactory.WeaponAbstractFactory">
+    <Position X="4" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\AbstractFactory\WeaponAbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.AK47Creator">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\AK47Creator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.AWPCreator">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\AWPCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.CTKnifeCreator">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\CTKnifeCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.DesertEagleCreator">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\DesertEagleCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.Glock18Creator">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\Glock18Creator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.KarambitCreator">
+    <Position X="17.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\KarambitCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.LegacyAugCreator">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\LegacyAugCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.M4A4Creator">
+    <Position X="22.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\M4A4Creator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.TKnifeCreator">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\TKnifeCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.USPSCreator">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\USPSCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.FactoryMethod.WeaponCreator">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryMethod\WeaponCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Map" Collapsed="true">
+    <Position X="17" Y="7.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAQAAAQAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Core\Map\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Point3d" Collapsed="true">
+    <Position X="21.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>Core\Map\Point3d.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Object3D" Collapsed="true">
+    <Position X="19.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Core\Map\Object3d.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Parallelepiped" Collapsed="true">
+    <Position X="19.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Map\Parallelepiped.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Core.Logger">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Patterns.Core.Logger.LogAddedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core\Singleton\Logger.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAQAAAQAAEAAIAAAA=</HashCode>
+      <FileName>Core\Singleton\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
